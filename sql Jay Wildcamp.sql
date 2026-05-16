@@ -1,4 +1,4 @@
-CREATE TABLE IF NOT EXISTS `rs_camp` (
+CREATE TABLE IF NOT EXISTS `Jay Wildcamp` (
   `id` int(10) unsigned NOT NULL AUTO_INCREMENT,
   `owner_identifier` varchar(255) DEFAULT NULL,
   `owner_charid` int(11) DEFAULT NULL,
