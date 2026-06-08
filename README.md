@@ -1,7 +1,7 @@
-# Lex-Wildcamp
+# Jay-Wildcamp
 <div align="center">
 
-# 🏕️ Lex-Wildcamp
+# 🏕️ Jay-Wildcamp
 ### Advanced Camping System for RedM Roleplay Servers
 
 
@@ -20,7 +20,7 @@
 
 # 📖 Overview
 
-**Lex-Wildcamp** is a premium and fully optimized camping system built for **RedM roleplay servers**.
+**Jay-Wildcamp** is a premium and fully optimized camping system built for **RedM roleplay servers**.
 
 Designed to deliver a realistic and immersive outdoor experience, the system allows players to create, customize, relocate, and manage fully synchronized camps across the server world.
 
